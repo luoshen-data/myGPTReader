@@ -20,6 +20,5 @@
   "env": {
     "PORT": "8080"
   },
-  "regions": ["iad1"],
   "cleanUrls": true
 }
